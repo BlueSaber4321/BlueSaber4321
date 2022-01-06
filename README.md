@@ -1,3 +1,4 @@
+![BlueSaberLogo](http://share.dylanr.net/2022/01/new2whitecrop.png)
 # Hi there, I'm BlueSaber!
 
 Links:
