@@ -10,3 +10,5 @@ Links:
 Minecraft Stuff:
 - [BlueSaber SMP Server](https://saber.blue/smp)
 - [Minecraft Network](https://saber.blue/network)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y5BXDZT)
